@@ -1,3 +1,3 @@
 # hw2
-hw2 repository
-trying to make a conflict by makng another branch from master
+ewadmefile in second test branch
+anothe one change in the second branch before the oull request is accepted
